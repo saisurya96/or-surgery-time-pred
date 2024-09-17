@@ -21,16 +21,10 @@ The project consists of two main components:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/sql-agent-langchain.git
+    git clone https://github.com/yourusername/txt2sql-bot.git
     cd sql-agent-langchain
     ```
-
-2. Install the required Python packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Set up environment variables:
+2. Set up environment variables:
     - Create a `.env` file in the root directory of the project.
     - Add your OpenAI API key and PostgreSQL connection details:
       ```
